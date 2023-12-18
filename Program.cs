@@ -3,7 +3,6 @@ using System.Runtime.Versioning;
 
 namespace CompGIFConverter
 {
-	[SupportedOSPlatform("windows")]
 	public class Program
 	{
 		private static int ConvertedGIFs;
